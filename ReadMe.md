@@ -11,4 +11,4 @@
 
 Блок-схема алгоритма:
 
-<img src="file:///C:\Users\yoshi\OneDrive\Рабочий стол\final.png" />
+![](final.png)
